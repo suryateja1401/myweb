@@ -1,0 +1,8 @@
+organization=pravnath
+projectKey=pravnath_myweb
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.54233
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=pravnath_myweb&branch=master
+ceTaskId=AY9R7CTlNR-6YohRb4xS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY9R7CTlNR-6YohRb4xS
